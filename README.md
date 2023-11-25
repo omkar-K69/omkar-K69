@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @omkar-K69
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python c++
-- 💞️ I’m looking to collaborate on dunno
+- 🌱 I’m currently learning java, sql...
 - 📫 How to reach me ...okhule98@gmail.com
 
 <!---
